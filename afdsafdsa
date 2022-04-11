@@ -1,0 +1,30 @@
+[33mcommit 0ee2766e3d42a32e83193aced04a97c7e91a2212[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 99322b8 0941ac5
+Author: khanh <nvkhanh2803@gmail.com>
+Date:   Mon Apr 11 19:50:45 2022 +0700
+
+    Merge branch 'alien-plot'
+
+[33mcommit 99322b8a5297fd133342b1d56e08fecad313616d[m
+Author: khanh <nvkhanh2803@gmail.com>
+Date:   Mon Apr 11 19:47:51 2022 +0700
+
+    add chapter 4
+
+[33mcommit 0941ac587376d82ffad546a84dd15124fcff17f3[m[33m ([m[1;32malien-plot[m[33m)[m
+Author: khanh <nvkhanh2803@gmail.com>
+Date:   Mon Apr 11 19:45:22 2022 +0700
+
+    modify file 1 and file 2 and file 3 to alien
+
+[33mcommit 591348c8abd80b7127da0ca769f6dd2842f6594b[m
+Author: khanh <nvkhanh2803@gmail.com>
+Date:   Mon Apr 11 19:16:44 2022 +0700
+
+    intial commit
+
+[33mcommit 47f10dd3dc310b329651c5e81d827842d6a38ac2[m
+Author: khanh <nvkhanh2803@gmail.com>
+Date:   Mon Apr 11 19:07:27 2022 +0700
+
+    Initial commit
